@@ -1,0 +1,12 @@
+{
+  "SharingCapability": "ExternalUserSharingOnly",
+  "OneDriveSharingCapability": "ExternalUserSharingOnly",
+  "DefaultSharingLinkType": "Internal",
+  "DefaultLinkPermission": "View",
+  "RequireAnonymousLinksExpireInDays": 30,
+  "PreventExternalUsersFromResharing": true,
+  "ExternalUserExpirationRequired": true,
+  "ExternalUserExpireInDays": 90,
+  "EmailAttestationRequired": true,
+  "EmailAttestationReAuthDays": 30
+}
